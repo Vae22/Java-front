@@ -32,7 +32,6 @@
                 </template>
             </el-table-column>
         </el-table>
-
         <!--分页控件-->
         <el-pagination
                 background
